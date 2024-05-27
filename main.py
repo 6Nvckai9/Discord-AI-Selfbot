@@ -499,7 +499,7 @@ Bot Commands:
 ~analyse @user - Analyse a user's messages to provide a personality profile
 ~model [BARD / GPT] - Change whether the bot uses BARD or ChatGPT
 
-Created by @najmul (451627446941515817) + @_mishal_ (1025245410224263258)```
+Created by loramanda```
 """
 
     await ctx.send(help_text)
