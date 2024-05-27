@@ -23,7 +23,7 @@ def main():
 
 
 def run():
-    app.run(host="0.0.0.0", port=3000, debug=true, use_reloader=true)
+    app.run(host="0.0.0.0", port=3000, debug=false, use_reloader=false)
 
 
 def keep_alive():
